@@ -1,0 +1,11 @@
+{
+    'username': 'Mkazemiraz',
+    'img': 'image-source',
+    'menu': [
+        {'title': 'Dashboard', 'icon': 'fa-dashboard', 'url': 'url'},
+        {'title': 'Profile', 'icon': 'fa-user', 'url': 'url'},
+        {'title': 'Inbox', 'icon': 'fa-envelope', 'url': 'url'},
+        {'title': 'Sales', 'icon': 'fa-shopping-cart', 'url': 'url'},
+        {'title': 'Analytics', 'icon': 'fa-line-chart', 'url': 'url'}
+    ]
+}
